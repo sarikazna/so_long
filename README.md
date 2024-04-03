@@ -12,6 +12,7 @@ So_Long is a simple 2D game project implemented in C as part of the School 42 cu
 - Collectible items to score points.
 - Obstacles to avoid, adding challenge to the gameplay.
 - Simple graphics rendering using the minilibx library.
+- Parsing of the game map - user should be able to add a map of his choice
 
 ## Installation
 
@@ -68,7 +69,7 @@ For bonus there's an extra character - which makes you lose once touch it.
 
 |CHAR|OBJECT|
 |---|------|
-|X |Needly|
+|X |Needle|
 
 <img width="160" alt="Posnetek zaslona 2024-03-28 232603" src="https://github.com/sarikazna/42lisboa/assets/121969818/02894461-64b7-4a5e-a2ad-26cb367f8fa2">
 
