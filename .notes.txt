@@ -1,0 +1,16 @@
+Resources:
+[Done] Project instructions: https://cdn.intra.42.fr/pdf/pdf/105321/en.subject.pdf
+What it MiniLibx? https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
+[Done] 42 e-learning on MiniLibx (in French): https://elearning.intra.42.fr/notions/minilibx/subnotions
+Guide on so_long: https://reactive.so/post/42-a-comprehensive-guide-to-so_long
+[Done] Video (in Russian): https://www.youtube.com/watch?v=D1DeE-Qit3M&t=569s
+MiniLibx library is full of bugs: https://pulgamecanica.herokuapp.com/posts/mlx-starter-pack
+MiniLibx library is full of bugs2: https://pulgamecanica.herokuapp.com/posts/minilibx-tutorial 
+
+TO DO:
+1. [done] Reproduce everything he's doing: https://elearning.intra.42.fr/notions/minilibx/subnotions
+2. [done] Argc and argv Check
+3. [done] Read map, like in get_next_line. You have to open and close it
+4. [done] Run checks to validate the map
+4.1[done] Validate path with flood fill algorithm
+5. [done] Find images - choose the size of the textures
